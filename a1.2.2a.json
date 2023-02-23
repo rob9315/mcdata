@@ -1,0 +1,24 @@
+[
+    {
+        "achievements": {},
+        "classes": {
+            "entity.list": "fo",
+            "particletypes": "at",
+            "recipe.superclass": "el"
+        },
+        "language": {},
+        "sounds": {},
+        "source": {
+            "classes": 522,
+            "file": "a1.2.2a.jar",
+            "other": 589,
+            "size": 1098159
+        },
+        "stats": {},
+        "tags": {},
+        "version": {
+            "entity_format": "1.10",
+            "is_flattened": false
+        }
+    }
+]

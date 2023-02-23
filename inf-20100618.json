@@ -1,0 +1,24 @@
+[
+    {
+        "achievements": {},
+        "classes": {
+            "entity.list": "net/minecraft/a/c/e",
+            "particletypes": "net/minecraft/a/c/b",
+            "recipe.superclass": "net/minecraft/a/b/a/f"
+        },
+        "language": {},
+        "sounds": {},
+        "source": {
+            "classes": 341,
+            "file": "inf-20100618.jar",
+            "other": 395,
+            "size": 601473
+        },
+        "stats": {},
+        "tags": {},
+        "version": {
+            "entity_format": "1.10",
+            "is_flattened": false
+        }
+    }
+]

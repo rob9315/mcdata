@@ -1,0 +1,20 @@
+[
+    {
+        "achievements": {},
+        "classes": {},
+        "language": {},
+        "sounds": {},
+        "source": {
+            "classes": 26,
+            "file": "rd-160052.jar",
+            "other": 35,
+            "size": 49076
+        },
+        "stats": {},
+        "tags": {},
+        "version": {
+            "entity_format": "1.10",
+            "is_flattened": false
+        }
+    }
+]

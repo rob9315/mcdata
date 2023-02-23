@@ -1,0 +1,20 @@
+[
+    {
+        "achievements": {},
+        "classes": {},
+        "language": {},
+        "sounds": {},
+        "source": {
+            "classes": 19,
+            "file": "rd-132328.jar",
+            "other": 26,
+            "size": 35435
+        },
+        "stats": {},
+        "tags": {},
+        "version": {
+            "entity_format": "1.10",
+            "is_flattened": false
+        }
+    }
+]
